@@ -1,7 +1,8 @@
 ## About me
 - Hi, I’m Matouš
+- I'm a Mechanical engineering student with specialization in Fluid engineering
 - I’m interested in using Python in technical fields such as mechanical engineering
-- I’m currently working on improving my coding skills and learning about new concepts.
+- I’m currently working on improving my coding skills and learning about new concepts
 - How to reach me: matousslonek@gmail.com
 
 <!---
