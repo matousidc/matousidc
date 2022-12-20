@@ -1,5 +1,4 @@
 ## About me
-- Hi, I’m Matouš
 - I am a mechanical engineering graduate with a Bachelor's degree
 - I am currently working as a software integration specialist at AT&T
 - My position includes me collaborating on task automation projects using Python
