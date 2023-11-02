@@ -1,9 +1,9 @@
 ## About me
-- I am a mechanical engineering graduate with a Bachelor's degree
-- I am currently working as a software integration specialist at AT&T
-- My position includes me collaborating on task automation projects using Python
-- My areas of expertise in Python programming are task automation and data engineering
-- I’m currently working on improving my coding skills and learning about new concepts (like data mining)
+- Python enthusiast
+- Currently working as a software integration specialist at AT&T
+- Part of my job is developing task automation projects using Python
+- My areas of expertise in Python programming include task automation and data engineering
+- I’m currently working on improving my coding skills (back-end development) and learning about new concepts
 - How to reach me: matousslonek@gmail.com
 
 <!---
